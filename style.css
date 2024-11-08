@@ -1,0 +1,57 @@
+div.bar {
+    width: 75% !important;
+    display: block;
+    margin: 0 auto;
+}
+@media (min-width: 768px) {
+    div.bar {
+        margin-top: 50px;
+        width: 50% !important;
+    }
+}
+
+div.pie {
+    width: 100% !important;
+}
+@media (min-width: 768px) {
+    div.pie {
+        width: 25% !important;
+    }
+}
+
+div.pie:not(.hidden) {
+    display: inline-block !important;
+}
+
+.hidden {
+    display: none !important;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    font-size: 75%;
+    opacity: 0.5;
+}
+
+.buttons {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: inline-flex;
+    background-color: #2c303a;
+}
+
+.button {
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
+    background-color: #444857;
+    color: white;
+    padding: 0.5rem;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: #5a5f73;
+}
