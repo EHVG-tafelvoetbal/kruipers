@@ -3,6 +3,9 @@ Sinds januari 2022 wordt bijgehouden wie er gekropen heeft en tegen wie.
 
 Elk jaar, tradiegetrouw bij de Kerstviering wordt de nieuwe kruipkoning van het jaar benoemd en deze zal de gouden kniebeschermer wisselbokaal in ontvangst nemen.
 
+## Kruipers dashboard
+Deze wordt automatisch na een commit in main gedeployed naar GitHub Pages, te vinden op: https://ehvg-tafelvoetbal.github.io/kruipers/.
+
 ## Kruipee toevoegen
 In `data.js` onder het juiste jaartal en de juiste maand onder de juiste naam het nummertje ophogen of regel toevoegen. Ook is het erg van belang om de comment achter het regeltje bij te werken met de daadwerkelijke data van de gespeelde pot.
 
