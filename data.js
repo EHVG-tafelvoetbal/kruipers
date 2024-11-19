@@ -205,6 +205,8 @@ const data = {
         11: {
             Diederik: 1, // 07-11 (& An) door Beau+Jelle;
             An: 1, // 07-11 (& Diederik) door Beau+Jelle;
+            Brandon: 1, // 19-11 (& Marijn) door Beau+Jelle;
+            Marijn: 1, // 19-11 (& Brandon) door Beau+Jelle;
         },
         weigeraars: {
             Thomas: 1, // 04-03 (& Brandon) door Lars+Marijn;
