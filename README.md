@@ -20,6 +20,6 @@ Dit betekend dat An éénmaal heeft gekropen samen met Diederik tegen Beau & Jel
 ```
 Marijn: 2, // 04-04 (& An) door Jelle+Janoeska; 09-04 (& Brandon) door Kevin+Janoeska;
 ```
-Dit betekend dat Marijn éénmaal heeft gekropen amen met An tegen Jelle & Janoeska en éénmaal samen met Brandon tegen Kevin & Janoeska.
+Dit betekend dat Marijn éénmaal heeft gekropen samen met An tegen Jelle & Janoeska en éénmaal samen met Brandon tegen Kevin & Janoeska.
 
 _Het is dus cruciaal om te vermelden WANNEER, MET WIE en TEGEN WIE de pot is gespeeld._
