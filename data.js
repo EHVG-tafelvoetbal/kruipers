@@ -212,4 +212,10 @@ const data = {
             Thomas: 1, // 04-03 (& Brandon) door Lars+Marijn;
         },
     },
+    2024: {
+        01: {
+            Marijn: 1, // 14-01 (& Jasper) door Jelle+An;
+            Jasper: 1, // 14-01 (& Marijn) door Jelle+An;
+        },
+    },
 };
