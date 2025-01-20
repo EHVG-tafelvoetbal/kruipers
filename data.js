@@ -216,6 +216,8 @@ const data = {
         01: {
             Marijn: 1, // 14-01 (& Jasper) door Jelle+An;
             Jasper: 1, // 14-01 (& Marijn) door Jelle+An;
+            Jorik: 1, // 16-01 (& Brandon) door Jelle+An;
+            Brandon: 1, // 16-01 (& Jorik) door Jelle+An;
         },
     },
 };
