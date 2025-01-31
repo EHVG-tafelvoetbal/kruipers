@@ -215,9 +215,10 @@ const data = {
     2025: {
         01: {
             Marijn: 1, // 14-01 (& Jasper) door Jelle+An;
-            Jasper: 1, // 14-01 (& Marijn) door Jelle+An;
+            Jasper: 2, // 14-01 (& Marijn) door Jelle+An; 30-01 (& Jelle) door Beau+Lars;
             Jorik: 1, // 16-01 (& Brandon) door Jelle+An;
             Brandon: 1, // 16-01 (& Jorik) door Jelle+An;
+            Jelle: 1, // 30-01 (& Jasper) door Beau+Lars;
         },
     },
 };
