@@ -222,7 +222,7 @@ const data = {
         },
         02: {
             An: 1, // 11-02 (& Lars) door Jelle+Marijn;
-            Lars: 2, // 11-02 (& An) door Jelle+Marijn;
+            Lars: 1, // 11-02 (& An) door Jelle+Marijn;
         },
     },
 };
