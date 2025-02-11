@@ -220,5 +220,9 @@ const data = {
             Brandon: 1, // 16-01 (& Jorik) door Jelle+An;
             Jelle: 1, // 30-01 (& Jasper) door Beau+Lars;
         },
+        02: {
+            An: 1, // 11-02 (& Lars) door Jelle+Marijn;
+            Lars: 2, // 11-02 (& An) door Jelle+Marijn;
+        },
     },
 };
