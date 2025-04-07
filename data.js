@@ -227,5 +227,9 @@ const data = {
             Stefan: 1, // 26-02 (& Stan) door Jelle+Jasper;
             Jasper: 1, // 27-02 (& Lars) door Jelle+Marijn;
         },
+        04: {
+            Marijn: 1, //07-04 (& Brandon) door Lars+Michel;
+            Brandon: 1, //07-04 (& Marijn) door Lars+Michel;
+        },
     },
 };
