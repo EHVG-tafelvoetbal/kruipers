@@ -230,6 +230,8 @@ const data = {
         04: {
             Marijn: 1, //07-04 (& Brandon) door Lars+Michel;
             Brandon: 1, //07-04 (& Marijn) door Lars+Michel;
+            An: 1, // 08-04 (& Ricardo) door Jelle+Beau;
+            Ricardo: 1, // 08-04 (& An) door Jelle+Beau;
         },
     },
 };
