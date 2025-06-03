@@ -25,4 +25,5 @@ const colors = {
     Lennart: "#62032B",
     Lars: "#53A46C",
     Diederik: "#1520A6",
+    Mike: "#470cc3",
 };

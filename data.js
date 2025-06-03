@@ -233,5 +233,10 @@ const data = {
             An: 1, // 08-04 (& Ricardo) door Jelle+Beau;
             Ricardo: 1, // 08-04 (& An) door Jelle+Beau;
         },
+        06: {
+            Brandon: 2, // 02-06 (& Mike) door Jorik+Marijn; 02-06 (& Marijn) door Jorik+Jelle;
+            Mike: 1, // 02-06 (& Brandon) door Jorik+Marijn;
+            Marijn: 1, // 02-06 (& Brandon) door Jorik+Jelle;
+        }
     },
 };
