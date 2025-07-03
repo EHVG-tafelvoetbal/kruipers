@@ -237,6 +237,10 @@ const data = {
             Brandon: 2, // 02-06 (& Mike) door Jorik+Marijn; 02-06 (& Marijn) door Jorik+Jelle;
             Mike: 1, // 02-06 (& Brandon) door Jorik+Marijn;
             Marijn: 1, // 02-06 (& Brandon) door Jorik+Jelle;
+        },
+        07: {
+            Marijn: 1, // 03-07 (& Jasper) door Beau+Lars;
+            Jasper: 1, // 03-07 (& Marijn) door Beau+Lars;
         }
     },
 };
