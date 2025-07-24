@@ -241,6 +241,8 @@ const data = {
         07: {
             Marijn: 1, // 03-07 (& Jasper) door Beau+Lars;
             Jasper: 1, // 03-07 (& Marijn) door Beau+Lars;
+            An: 1, // 21-07 (& Jorik) door Brandon+Ricardo;
+            Jorik: 1, // 21-07 (& An) door Brandon+Ricardo;
         }
     },
 };
