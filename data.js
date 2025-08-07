@@ -245,6 +245,10 @@ const data = {
             Jorik: 1, // 21-07 (& An) door Brandon+Ricardo;
             Igor: 1, // 31-07 (& Stefan) door An&Beau;
             Stefan: 1, // 31-07 (& Igor) door An&Beau;
+        },
+        08: {
+            Boyd: 1, // 07-08 (& Brandon) door Jasper+Lars;
+            Brandon: 1, // 07-08 (& Boyd) door Jasper+Lars;
         }
     },
 };
