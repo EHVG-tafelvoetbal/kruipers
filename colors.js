@@ -28,4 +28,5 @@ const colors = {
     Mike: "#470cc3",
     Igor: "#4C9141",
     Stefan: "#424632",
+    Boyd: "#47402E",
 };
