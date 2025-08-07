@@ -29,4 +29,5 @@ const colors = {
     Igor: "#4C9141",
     Stefan: "#424632",
     Boyd: "#47402E",
+    Reno: "#CBD0CC",
 };
