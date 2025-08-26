@@ -250,6 +250,8 @@ const data = {
             Boyd: 2, // 07-08 (& Brandon) door Jasper+Lars; 07-08 (& Reno) door Brandon+Lars;
             Brandon: 1, // 07-08 (& Boyd) door Jasper+Lars;
             Reno: 1, // 07-08 (& Boyd) door Brandon+Lars;
+            Igor: 1, // 26-08 (& Mike) door Boyd+Ricardo;
+            Mike: 1, // 26-08 (& Igor) door Boyd+Ricardo;
         }
     },
 };
