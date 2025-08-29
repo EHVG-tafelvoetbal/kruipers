@@ -252,6 +252,10 @@ const data = {
             Reno: 1, // 07-08 (& Boyd) door Brandon+Lars;
             Igor: 1, // 26-08 (& Mike) door Boyd+Ricardo;
             Mike: 1, // 26-08 (& Igor) door Boyd+Ricardo;
+            Denise: 1, // 28-08 (& Jelmer) door An+Jelle;
+            Jelmer: 1, // 28-08 (& Denise) door An+Jelle;
+            Rudwan: 1, // 29-08 (& Sander) door Lars+Ricardo;
+            Sander: 1, // 29-08 (& Rudwan) door Lars+Ricardo;
         }
     },
 };

@@ -30,4 +30,8 @@ const colors = {
     Stefan: "#424632",
     Boyd: "#47402E",
     Reno: "#CBD0CC",
+    Denise: "#f9a1cdff",
+    Sander: "#FF6700",
+    Rudwan: "#DAFFEF",
+    Jelmer: "#8C2155",
 };
