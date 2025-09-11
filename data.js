@@ -258,8 +258,9 @@ const data = {
             Sander: 1, // 29-08 (& Rudwan) door Lars+Ricardo;
         },
         09: {
-            Jelmer: 1, // 2-09 (& Mike) door An+Beau;
+            Jelmer: 2, // 2-09 (& Mike) door An+Beau; // 10-09 (& Maartje) door Lars+Boyd;
             Mike: 1, // 2-09 (& Jelmer) door An+Beau;
+            Maartje: 1,  // 10-09 (& Jelmer) door Lars+Boyd;
         }
     },
 };
