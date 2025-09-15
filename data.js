@@ -261,6 +261,10 @@ const data = {
             Jelmer: 2, // 2-09 (& Mike) door An+Beau; // 10-09 (& Maartje) door Lars+Boyd;
             Mike: 1, // 2-09 (& Jelmer) door An+Beau;
             Maartje: 1,  // 10-09 (& Jelmer) door Lars+Boyd;
+            An: 1, // 12-09 (& Kevin) door Jelle+Jasper;
+            Kevin: 1, // 12-09 (& An) door Jelle+Jasper;
+            Brandon: 1, // 15-09 (& Mike) door Lars+Jorik;
+            Mike: 1, // 15-09 (& Brandon) door Lars+Jorik;
         }
     },
 };
