@@ -265,6 +265,8 @@ const data = {
             Kevin: 1, // 12-09 (& An) door Jelle+Jasper;
             Brandon: 1, // 15-09 (& Mike) door Lars+Jorik;
             Igor: 1, // 15-09 (& Mike) door Ricardo+Lars
+            Rudwan: 1, // 16-09 (& Beau) door Jasper+Ricardo;
+            Beau: 1, // 16-09 (& Rudwan) door Jasper+Ricardo;
         }
     },
 };
