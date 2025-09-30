@@ -258,8 +258,8 @@ const data = {
             Sander: 1, // 29-08 (& Rudwan) door Lars+Ricardo;
         },
         09: {
-            Jelmer: 4, // 2-09 (& Mike) door An+Beau; // 10-09 (& Maartje) door Lars+Boyd; // 24-09 (& Stefan) door Lars+Jasper; // 25-09 (solo) door Beau;
-            Mike: 4, // 2-09 (& Jelmer) door An+Beau; // 15-09 (& Brandon) door Lars+Jorik; // 15-09 (& Igor) door Ricardo+Lars; // 19-09 (& Igor) door Jorik+Ricardo;
+            Jelmer: 5, // 2-09 (& Mike) door An+Beau; // 10-09 (& Maartje) door Lars+Boyd; // 24-09 (& Stefan) door Lars+Jasper; // 25-09 (solo) door Beau; // 30-09 (& Mike) door Beau+Igor;
+            Mike: 5, // 2-09 (& Jelmer) door An+Beau; // 15-09 (& Brandon) door Lars+Jorik; // 15-09 (& Igor) door Ricardo+Lars; // 19-09 (& Igor) door Jorik+Ricardo; // 30-09 (& Jelmer) door Beau+Igor;
             Maartje: 2,  // 10-09 (& Jelmer) door Lars+Boyd; // 19-09 (& Sander) door Lars+Jorik;
             An: 1, // 12-09 (& Kevin) door Jelle+Jasper;
             Kevin: 1, // 12-09 (& An) door Jelle+Jasper;
