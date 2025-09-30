@@ -258,7 +258,7 @@ const data = {
             Sander: 1, // 29-08 (& Rudwan) door Lars+Ricardo;
         },
         09: {
-            Jelmer: 5, // 2-09 (& Mike) door An+Beau; // 10-09 (& Maartje) door Lars+Boyd; // 24-09 (& Stefan) door Lars+Jasper; // 25-09 (solo) door Beau; // 30-09 (& Mike) door Beau+Igor;
+            Jelmer: 6, // 2-09 (& Mike) door An+Beau; // 10-09 (& Maartje) door Lars+Boyd; // 24-09 (& Stefan) door Lars+Jasper; // 25-09 (solo) door Beau; // 30-09 (& Mike) door Beau+Igor; // 30-09 (& Stefan) door Beau+Mike;
             Mike: 5, // 2-09 (& Jelmer) door An+Beau; // 15-09 (& Brandon) door Lars+Jorik; // 15-09 (& Igor) door Ricardo+Lars; // 19-09 (& Igor) door Jorik+Ricardo; // 30-09 (& Jelmer) door Beau+Igor;
             Maartje: 2,  // 10-09 (& Jelmer) door Lars+Boyd; // 19-09 (& Sander) door Lars+Jorik;
             An: 1, // 12-09 (& Kevin) door Jelle+Jasper;
@@ -268,7 +268,7 @@ const data = {
             Rudwan: 1, // 16-09 (& Beau) door Jasper+Ricardo;
             Beau: 1, // 16-09 (& Rudwan) door Jasper+Ricardo;
             Sander: 1,  // 19-09 (& Maartje) door Lars+Jorik;
-            Stefan: 1,  // 24-09 (& Jelmer) door Lars+Jasper;
+            Stefan: 2,  // 24-09 (& Jelmer) door Lars+Jasper; // 30-09 (& Jelmer) door Beau+Mike;
         }
     },
 };
