@@ -269,6 +269,10 @@ const data = {
             Beau: 1, // 16-09 (& Rudwan) door Jasper+Ricardo;
             Sander: 1,  // 19-09 (& Maartje) door Lars+Jorik;
             Stefan: 2,  // 24-09 (& Jelmer) door Lars+Jasper; // 30-09 (& Jelmer) door Beau+Mike;
-        }
+        },
+        10: {
+            Mike: 1, // 02-10 (& Stefan) door Jelmer+Beau;
+            Stefan: 1, // 02-10 (& Mike) door Jelmer+Beau;
+        },
     },
 };
