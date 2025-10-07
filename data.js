@@ -273,6 +273,7 @@ const data = {
         10: {
             Mike: 1, // 02-10 (& Stefan) door Jelmer+Beau;
             Stefan: 1, // 02-10 (& Mike) door Jelmer+Beau;
+            Jelmer: 2, //06-10 (Hakbijl gooien) door Mike;
         },
     },
 };
