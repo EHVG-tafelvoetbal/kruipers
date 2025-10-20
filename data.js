@@ -271,11 +271,12 @@ const data = {
             Stefan: 2,  // 24-09 (& Jelmer) door Lars+Jasper; // 30-09 (& Jelmer) door Beau+Mike;
         },
         10: {
-            Mike: 1, // 02-10 (& Stefan) door Jelmer+Beau;
+            Mike: 2, // 02-10 (& Stefan) door Jelmer+Beau; // 20-10 (& Igor) door An+Beau;
             Stefan: 3, // 02-10 (& Mike) door Jelmer+Beau; // 16-10 (& Marijn) door Ricardo+Boyd; // 16-10 (& Reno) door Lars (solo);
             Jelmer: 2, //06-10 (Hakbijl gooien) door Mike;
             Marijn: 1, // 16-10 (& Stefan) door Ricardo+Boyd;
             Reno: 1, // 16-10 (& Stefan) door Lars (solo);
+            Igor: 1, // 20-10 (& Mike) door An+Beau;
         },
     },
 };
