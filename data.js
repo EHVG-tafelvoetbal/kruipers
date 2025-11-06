@@ -271,13 +271,18 @@ const data = {
             Stefan: 2,  // 24-09 (& Jelmer) door Lars+Jasper; // 30-09 (& Jelmer) door Beau+Mike;
         },
         10: {
-            Mike: 4, // 02-10 (& Stefan) door Jelmer+Beau; // 20-10 (& Igor) door An+Beau; // 30-10 (& Brandon) door Beau+Jorik; // 4-11 (& Stefan) door Beau+Marijn
-            Stefan: 5, // 02-10 (& Mike) door Jelmer+Beau; // 16-10 (& Marijn) door Ricardo+Boyd; // 16-10 (& Reno) door Lars (solo); // 23-10 (& Igor) door Lars+Brandon; // 4-11 (& Mike) door Beau+Marijn
+            Mike: 3, // 02-10 (& Stefan) door Jelmer+Beau; // 20-10 (& Igor) door An+Beau; // 30-10 (& Brandon) door Beau+Jorik;
+            Stefan: 4, // 02-10 (& Mike) door Jelmer+Beau; // 16-10 (& Marijn) door Ricardo+Boyd; // 16-10 (& Reno) door Lars (solo); // 23-10 (& Igor) door Lars+Brandon;
             Jelmer: 3, //06-10 (Hakbijl gooien) door Mike; // 27-10 (& Igor) door Lars+Beau;
             Marijn: 1, // 16-10 (& Stefan) door Ricardo+Boyd;
             Reno: 1, // 16-10 (& Stefan) door Lars (solo);
             Igor: 3, // 20-10 (& Mike) door An+Beau; // 23-10 (& Stefan) door Lars+Brandon // 27-10 (& Jelmber) door Lars+Beau;
             Brandon: 1, // 30-10 (& Mike) door Beau+Jorik;
+        },
+        11: {
+            Mike: 1,  // 4-11 (& Stefan) door Beau+Marijn
+            Stefan: 2, // 06-11 (& Jelmer) door Marijn+Boyd; // 4-11 (& Mike) door Beau+Marijn
+            Jelmer: 1, // 06-11 (& Stefan) door Marijn+Boyd;
         },
     },
 };
