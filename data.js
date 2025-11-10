@@ -282,8 +282,9 @@ const data = {
         11: {
             Mike: 1,  // 4-11 (& Stefan) door Beau+Marijn
             Stefan: 2, // 06-11 (& Jelmer) door Marijn+Boyd; // 4-11 (& Mike) door Beau+Marijn
-            Jelmer: 2, // 06-11 (& Stefan) door Marijn+Boyd; // 10-11 (& Brandon) door An+Beau;
+            Jelmer: 3, // 06-11 (& Stefan) door Marijn+Boyd; // 10-11 (& Brandon) door An+Beau; // 10-11 (& Jorik) door Brandon+Beau;
             Brandon: 1, // 10-11 (& Jelmer) door An+Beau;
+            Jorik: 1, // 10-11 (& Jelmber) door Brandon+Beau;
         },
     },
 };
