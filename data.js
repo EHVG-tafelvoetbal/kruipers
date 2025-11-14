@@ -286,7 +286,8 @@ const data = {
             Brandon: 1, // 10-11 (& Jelmer) door An+Beau;
             Jorik: 1, // 10-11 (& Jelmber) door Brandon+Beau;
             Igor: 1, // 13-11 (& Reno) door An+Beau;
-            Reno: 1, // 13-11 (& Igor) door An+Beau;
+            Reno: 2, // 13-11 (& Igor) door An+Beau; // 13-11 (& Floor) door Beau+Denise;
+            Floor: 1, // 13-11 (& Reno) door Beau+Denise;
         },
     },
 };
