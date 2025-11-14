@@ -35,4 +35,5 @@ const colors = {
     Rudwan: "#DAFFEF",
     Jelmer: "#8C2155",
     Maartje: "#CBD0CC",
+    Floor: "#FFFF00",
 };
