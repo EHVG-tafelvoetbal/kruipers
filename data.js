@@ -283,9 +283,9 @@ const data = {
             Mike: 2,  // 4-11 (& Stefan) door Beau+Marijn; // 20-11 (& Stefan) door Beau+Jasper
             Stefan: 3, // 06-11 (& Jelmer) door Marijn+Boyd; // 4-11 (& Mike) door Beau+Marijn; // 20-11 (& Mike) door Beau+Jasper
             Jelmer: 3, // 06-11 (& Stefan) door Marijn+Boyd; // 10-11 (& Brandon) door An+Beau; // 10-11 (& Jorik) door Brandon+Beau;
-            Brandon: 1, // 10-11 (& Jelmer) door An+Beau;
+            Brandon: 2, // 10-11 (& Jelmer) door An+Beau; // 20-11 (& Igor) door Lars+Beau;
             Jorik: 1, // 10-11 (& Jelmber) door Brandon+Beau;
-            Igor: 1, // 13-11 (& Reno) door An+Beau;
+            Igor: 2, // 13-11 (& Reno) door An+Beau; // 20-11 (& Brandon) door Lars+Beau;
             Reno: 2, // 13-11 (& Igor) door An+Beau; // 13-11 (& Floor) door Beau+Denise;
             Floor: 1, // 13-11 (& Reno) door Beau+Denise;
         },
