@@ -289,5 +289,9 @@ const data = {
             Reno: 2, // 13-11 (& Igor) door An+Beau; // 13-11 (& Floor) door Beau+Denise;
             Floor: 1, // 13-11 (& Reno) door Beau+Denise;
         },
+        12: {
+          Jelmer: 1, // 01-12 (& Marijn) door Lars+Boyd;
+          Marijn: 1, // 01-12 (& Jelmer) Door Lars+Boyd;
+        }
     },
 };
