@@ -290,9 +290,10 @@ const data = {
             Floor: 1, // 13-11 (& Reno) door Beau+Denise;
         },
         12: {
-          Jelmer: 2, // 01-12 (& Marijn) door Lars+Boyd; 04-12 (& Jasper) Door Lars+Rick;
-          Marijn: 1, // 01-12 (& Jelmer) Door Lars+Boyd;
-          Jasper: 1, // 04-12 (& Jelmer) Door Lars+Rick;
+            Jelmer: 3, // 01-12 (& Marijn) door Lars+Boyd; 03-12 (& Jasper) Door Lars+Rick; 04-12 (& Stefan) Door Lars+Marijn;
+            Marijn: 1, // 01-12 (& Jelmer) Door Lars+Boyd;
+            Jasper: 1, // 03-12 (& Jelmer) Door Lars+Rick;
+            Stefan: 1, // 04-12 (& Jelmer) Door Lars+Marijn;
         }
     },
 };
