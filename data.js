@@ -293,7 +293,8 @@ const data = {
             Jelmer: 3, // 01-12 (& Marijn) door Lars+Boyd; 03-12 (& Jasper) Door Lars+Rick; 04-12 (& Stefan) Door Lars+Marijn;
             Marijn: 1, // 01-12 (& Jelmer) Door Lars+Boyd;
             Jasper: 1, // 03-12 (& Jelmer) Door Lars+Rick;
-            Stefan: 1, // 04-12 (& Jelmer) Door Lars+Marijn;
+            Stefan: 2, // 04-12 (& Jelmer) Door Lars+Marijn; // 08-12 (& Mike) Door Beau+Jorik;
+            Mike: 1, // 08-12 (& Stefan) Door Beau+Jorik;
         }
     },
 };
