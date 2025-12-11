@@ -290,11 +290,13 @@ const data = {
             Floor: 1, // 13-11 (& Reno) door Beau+Denise;
         },
         12: {
-            Jelmer: 3, // 01-12 (& Marijn) door Lars+Boyd; 03-12 (& Jasper) Door Lars+Rick; 04-12 (& Stefan) Door Lars+Marijn;
+            Jelmer: 4, // 01-12 (& Marijn) door Lars+Boyd; 03-12 (& Jasper) Door Lars+Rick; 04-12 (& Stefan) Door Lars+Marijn; 11-12 (& Brandon) door Beau+Jorik;
             Marijn: 3, // 01-12 (& Jelmer) Door Lars+Boyd; 09-12 (& Mike) Door Beau+Ricardo; 09-12 (& Mike) Door Beau+Ricardo;
             Jasper: 1, // 03-12 (& Jelmer) Door Lars+Rick;
-            Stefan: 2, // 04-12 (& Jelmer) Door Lars+Marijn; // 08-12 (& Mike) Door Beau+Jorik;
+            Stefan: 3, // 04-12 (& Jelmer) Door Lars+Marijn; // 08-12 (& Mike) Door Beau+Jorik; // 11-12 (& Reno) door Beau+Denise;
             Mike: 3, // 08-12 (& Stefan) Door Beau+Jorik; 09-12 (& Marijn) Door Beau+Ricardo; 09-12 (& Marijn) Door Beau+Ricardo;
+            Reno: 1, // 11-12 (& Stefan) door Beau+Denise;
+            Brandon: 1, // 11-12 (& Jelmer) door Beau+Jorik;
         }
     },
 };
