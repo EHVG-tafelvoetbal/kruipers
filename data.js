@@ -293,10 +293,11 @@ const data = {
             Jelmer: 5, // 01-12 (& Marijn) door Lars+Boyd; 03-12 (& Jasper) Door Lars+Rick; 04-12 (& Stefan) Door Lars+Marijn; 11-12 (& Brandon) door Beau+Jorik; 15-12 (& Stefan) door Beau+Marijn;
             Marijn: 3, // 01-12 (& Jelmer) Door Lars+Boyd; 09-12 (& Mike) Door Beau+Ricardo; 09-12 (& Mike) Door Beau+Ricardo;
             Jasper: 1, // 03-12 (& Jelmer) Door Lars+Rick;
-            Stefan: 5, // 04-12 (& Jelmer) Door Lars+Marijn; // 08-12 (& Mike) Door Beau+Jorik; // 11-12 (& Reno) door Beau+Denise; // 15-12 (& Jelmer) door Beau+Marijn;
+            Stefan: 6, // 04-12 (& Jelmer) Door Lars+Marijn; // 08-12 (& Mike) Door Beau+Jorik; // 11-12 (& Reno) door Beau+Denise; // 15-12 (& Jelmer) door Beau+Marijn; // 23-12 (& Igor) door Marijn+Ricardo;
             Mike: 3, // 08-12 (& Stefan) Door Beau+Jorik; 09-12 (& Marijn) Door Beau+Ricardo; 09-12 (& Marijn) Door Beau+Ricardo;
             Reno: 1, // 11-12 (& Stefan) door Beau+Denise;
             Brandon: 1, // 11-12 (& Jelmer) door Beau+Jorik;
+            Igor: 1, // 23-12 (& Stefan) door Marijn+Ricardo;
         }
     },
 };
