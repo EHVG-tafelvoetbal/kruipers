@@ -298,6 +298,11 @@ const data = {
             Reno: 1, // 11-12 (& Stefan) door Beau+Denise;
             Brandon: 1, // 11-12 (& Jelmer) door Beau+Jorik;
             Igor: 1, // 23-12 (& Stefan) door Marijn+Ricardo;
-        }
+        },
+    2025: {
+        01: {
+            Igor: 1, // 12-01 (& Stefan) door Jorik+Mike
+            Stefan: 1, // 12-01 (& Igor) door Jorik+Mike
+        },
     },
 };
