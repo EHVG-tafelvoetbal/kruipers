@@ -303,9 +303,10 @@ const data = {
     2026: {
         01: {
             Igor: 1, // 12-01 (& Stefan) door Jorik+Mike
-            Stefan: 4, // 12-01 (& Igor) door Jorik+Mike; // 12-01 (& Marijn) door Beau+Mike; // 12-01 (& Mike) door Beau+Marijn; // 12-01 (& Mike) door Beau+Marijn
+            Stefan: 5, // 12-01 (& Igor) door Jorik+Mike; // 12-01 (& Marijn) door Beau+Mike; // 12-01 (& Mike) door Beau+Marijn; // 12-01 (& Mike) door Beau+Marijn // 22-01 (& BoydF) door Jorik+Mike;
             Marijn: 1, // 12-01 (& Stefan) door Beau+Mike
             Mike: 2, // 12-01 (& Stefan) door Beau+Marijn; // 12-01 (& Stefan) door Beau+Marijn
+            BoydF: 1, // 22-01 (& Stefan) door Jorik+Mike;
         },
     },
 };
