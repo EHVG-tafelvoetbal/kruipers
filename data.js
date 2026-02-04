@@ -310,7 +310,8 @@ const data = {
         },
         02: {
             Jasper: 1, // 04-02 (& Jelmer) door Sander+Lars;
-            Jelmer: 1, // 04-02 (& Jasper) door Sander+Lars;
+            Jelmer: 2, // 04-02 (& Jasper) door Sander+Lars; // 04-02 (& Stefan) door Jasper+Lars
+            Stefan: 1, // 04-02 (& Jelmer) door Jasper+Lars
         },
     },
 };
