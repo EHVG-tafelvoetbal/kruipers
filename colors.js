@@ -36,4 +36,5 @@ const colors = {
     Jelmer: "#8C2155",
     Maartje: "#CBD0CC",
     Floor: "#FFFF00",
+    Ibrahim: "#826C34",
 };
