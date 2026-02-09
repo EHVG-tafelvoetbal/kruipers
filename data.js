@@ -309,9 +309,9 @@ const data = {
             BoydF: 1, // 22-01 (& Stefan) door Jorik+Mike;
         },
         02: {
-            Jasper: 1, // 04-02 (& Jelmer) door Sander+Lars;
+            Jasper: 2, // 04-02 (& Jelmer) door Sander+Lars; // 09-02 (& Stefan) door Ricardo en Lars
             Jelmer: 3, // 04-02 (& Jasper) door Sander+Lars; // 04-02 (& Stefan) door Jasper+Lars; // 05-02 (& Ibrahim) door Beau+Reno;
-            Stefan: 1, // 04-02 (& Jelmer) door Jasper+Lars;
+            Stefan: 2, // 04-02 (& Jelmer) door Jasper+Lars; // 09-02 (& Jasper) door Ricardo en Lars
             Ibrahim: 1, // 05-02 (& Jelmer) door Beau+Reno;
         },
     },
