@@ -37,4 +37,5 @@ const colors = {
     Maartje: "#CBD0CC",
     Floor: "#FFFF00",
     Ibrahim: "#826C34",
+    Rick: "#FF0080",
 };
