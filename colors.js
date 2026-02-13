@@ -17,7 +17,7 @@ const colors = {
     An: "#47e933",
     Max: "#7190e3",
     Marijn: "#315700",
-    Jasper: "#DFFF00",
+    Jasper: "#FFFFFF",
     Janoeska: "#ff458e",
     Shaldi: "#000",
     Brandon: "#935CCF",
