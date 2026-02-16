@@ -311,10 +311,11 @@ const data = {
         02: {
             Jasper: 2, // 04-02 (& Jelmer) door Sander+Lars; // 09-02 (& Stefan) door Ricardo en Lars
             Jelmer: 3, // 04-02 (& Jasper) door Sander+Lars; // 04-02 (& Stefan) door Jasper+Lars; // 05-02 (& Ibrahim) door Beau+Reno;
-            Stefan: 2, // 04-02 (& Jelmer) door Jasper+Lars; // 09-02 (& Jasper) door Ricardo en Lars
+            Stefan: 3, // 04-02 (& Jelmer) door Jasper+Lars; // 09-02 (& Jasper) door Ricardo en Lars; // 16-02 (& Marijn) door Beau en Jasper;
             Ibrahim: 1, // 05-02 (& Jelmer) door Beau+Reno;
             Rick: 1, // 13-02 (& Sander) door Lars+Ricardo;
             Sander: 1, // 13-02 (& Rick) door Lars+Ricardo;
+            Marijn: 1, // 16-02 (& Stefan) door Beau en Jasper;
         },
     },
 };
