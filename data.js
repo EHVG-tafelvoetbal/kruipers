@@ -310,12 +310,12 @@ const data = {
         },
         02: {
             Jasper: 3, // 04-02 (& Jelmer) door Sander+Lars; // 09-02 (& Stefan) door Ricardo en Lars; // 17-02 (& Marijn) door Beau & Mike
-            Jelmer: 6, // 04-02 (& Jasper) door Sander+Lars; // 04-02 (& Stefan) door Jasper+Lars; // 05-02 (& Ibrahim) door Beau+Reno; // 25-02 (& Sander) door Lars+Jasper;  // 26-02 (& Mike) door Beau en Jelmer;  // 26-02 (& Stefan) door Beau en Mike;  // 26-02 (& Stefan) door Beau en Mike;
+            Jelmer: 7, // 04-02 (& Jasper) door Sander+Lars; // 04-02 (& Stefan) door Jasper+Lars; // 05-02 (& Ibrahim) door Beau+Reno; // 25-02 (& Sander) door Lars+Jasper;  // 26-02 (& Mike) door Beau en Jelmer;  // 26-02 (& Stefan) door Beau en Mike;  // 26-02 (& Stefan) door Beau en Mike;  // 26-02 (& Marijn) door Beau en Mike;
             Stefan: 7, // 04-02 (& Jelmer) door Jasper+Lars; // 09-02 (& Jasper) door Ricardo en Lars; // 16-02 (& Marijn) door Beau en Jasper; // 18-02 (& Ibrahim) door Lars & Ricardo;  // 26-02 (& Jelmer) door Beau en Mike;  // 26-02 (& Jelmer) door Beau en Mike;
             Ibrahim: 2, // 05-02 (& Jelmer) door Beau+Reno; // 18-02 (& Stefan) door Lars & Ricardo;
             Rick: 1, // 13-02 (& Sander) door Lars+Ricardo;
             Sander: 2, // 13-02 (& Rick) door Lars+Ricardo; // 25-02 (& Jelmer) door Lars+Jasper;
-            Marijn: 2, // 16-02 (& Stefan) door Beau en Jasper; // 17-02 (& Jasper) door Beau & Mike
+            Marijn: 3, // 16-02 (& Stefan) door Beau en Jasper; // 17-02 (& Jasper) door Beau & Mike;  // 26-02 (& Jelmer) door Beau en Mike;
             Mike: 1,  // 26-02 (& Stefan) door Beau en Jelmer;
         },
     },
