@@ -318,5 +318,9 @@ const data = {
             Marijn: 3, // 16-02 (& Stefan) door Beau en Jasper; // 17-02 (& Jasper) door Beau & Mike;  // 26-02 (& Jelmer) door Beau en Mike;
             Mike: 1,  // 26-02 (& Stefan) door Beau en Jelmer;
         },
+        03: {
+            Stefan: 1, // 01-03 (& Mike) door An+Jelmer; 
+            Mike: 1,  // 01-03 (& Stefan) door An+Jelmer;
+        },
     },
 };
