@@ -319,8 +319,8 @@ const data = {
             Mike: 1,  // 26-02 (& Stefan) door Beau en Jelmer;
         },
         03: {
-            Stefan: 1, // 01-03 (& Mike) door An+Jelmer; 
-            Mike: 1,  // 01-03 (& Stefan) door An+Jelmer;
+            Stefan: 2, // 01-03 (& Mike) door An+Jelmer; // 05-03 (& Mike) door Lars+Michel; 
+            Mike: 2,  // 01-03 (& Stefan) door An+Jelmer; // 05-03 (& Stefan) door Lars+Michel; 
             Jelmer: 1, // 04-03 (& Jasper) door Lars & Ricardo;
             Jasper: 1, // 04-03 (& Jelmer) door Lars & Ricardo;
         },
