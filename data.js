@@ -319,9 +319,9 @@ const data = {
             Mike: 1,  // 26-02 (& Stefan) door Beau en Jelmer;
         },
         03: {
-            Stefan: 9, // 01-03 (& Mike) door An+Jelmer; // 05-03 (& Mike) door Lars+Michel;  // 05-03 (& Jorik) door Lars+Jasper;  // 05-03 (& Jelmer) door Marijn & Beau; // 09-03 (& Jelmer) door Boyd & Lars; // 16-03 (& Jorik) door Beau & Michel; // 17-03 (& Marijn) door Beau & Ricardo;  // 19-03 (& Jelmer) door Marijn & Mike; // 24-03 (& Mike) door Beau & Ricardo;
+            Stefan: 10, // 01-03 (& Mike) door An+Jelmer; // 05-03 (& Mike) door Lars+Michel;  // 05-03 (& Jorik) door Lars+Jasper;  // 05-03 (& Jelmer) door Marijn & Beau; // 09-03 (& Jelmer) door Boyd & Lars; // 16-03 (& Jorik) door Beau & Michel; // 17-03 (& Marijn) door Beau & Ricardo;  // 19-03 (& Jelmer) door Marijn & Mike; // 24-03 (& Mike) door Beau & Ricardo; // 27-03 (& Jelmer) door Beau & Lars;
             Mike: 4,  // 01-03 (& Stefan) door An+Jelmer; // 05-03 (& Stefan) door Lars+Michel;  // 24-03 (& An) door Beau & Jorik; // 24-03 (& Stefan) door Beau & Ricardo;
-            Jelmer: 6, // 04-03 (& Jasper) door Lars & Ricardo; // 05-03 (& Stefan) door Marijn & Beau; // 09-03 (& Stefan) door Boyd & Lars;  // 19-03 (& Sander) door Lars & Ricardo; // 19-03 (& Stefan) door Marijn & Mike; // 25-03 (& Rick) door Lars + Ricardo;
+            Jelmer: 7, // 04-03 (& Jasper) door Lars & Ricardo; // 05-03 (& Stefan) door Marijn & Beau; // 09-03 (& Stefan) door Boyd & Lars;  // 19-03 (& Sander) door Lars & Ricardo; // 19-03 (& Stefan) door Marijn & Mike; // 25-03 (& Rick) door Lars + Ricardo; // 27-03 (& Stefan) door Beau & Lars;
             Jasper: 2, // 04-03 (& Jelmer) door Lars & Ricardo; // 11-03 (& Marijn) door Lars & Sander
             Jorik: 2, // 05-03 (& Stefan) door Lars+Jasper;  // 16-03 (& Stefan) door Beau & Michel;
             Marijn: 2, // 11-03 (& Jasper) door Lars & Sander; // 17-03 (& Stefan) door Beau & Ricardo
