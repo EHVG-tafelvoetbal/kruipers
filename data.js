@@ -330,9 +330,10 @@ const data = {
             Rick: 1, // 25-03 (& Jelmer) door Lars & Ricardo;
         },
         04: {
-            Jelmer: 2, // 01-04 (& Jasper) door Lars+Ricardo; // 01-04 (& Jasper) door Lars+Marijn;
+            Jelmer: 3, // 01-04 (& Jasper) door Lars+Ricardo; // 01-04 (& Jasper) door Lars+Marijn; // 09-04 (& Stefan) door Marijn+Beau;
             Jasper: 3, // 01-04 (& Jelmer) door Lars+Ricardo; // 01-04 (& Jelmer) door Lars+Marijn;  // 07-04 (& Marijn) door Michel+Jorik;
             Marijn: 1,  // 07-04 (& Jasper) door Michel+Jorik;
+            Stefan: 1, // 09-04 (& Jelmer) door Marijn+Beau;
         },
     },
 };
