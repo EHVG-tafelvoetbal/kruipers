@@ -331,10 +331,10 @@ const data = {
         },
         04: {
             Jelmer: 5, // 01-04 (& Jasper) door Lars+Ricardo; // 01-04 (& Jasper) door Lars+Marijn; // 09-04 (& Stefan) door Marijn+Beau; // 09-04 (& Stefan) door BoydF+Beau; // 15-04 (& Stefan) door Marijn+Lars;
-            Jasper: 3, // 01-04 (& Jelmer) door Lars+Ricardo; // 01-04 (& Jelmer) door Lars+Marijn;  // 07-04 (& Marijn) door Michel+Jorik;
+            Jasper: 4, // 01-04 (& Jelmer) door Lars+Ricardo; // 01-04 (& Jelmer) door Lars+Marijn;  // 07-04 (& Marijn) door Michel+Jorik; // 24-04 (& Sander) door Ricardo+Lars;
             Marijn: 1,  // 07-04 (& Jasper) door Michel+Jorik;
             Stefan: 3, // 09-04 (& Jelmer) door Marijn+Beau; // 09-04 (& Jelmer) door BoydF+Beau; // 15-04 (& Jelmer) door Marijn+Lars;
-            Sander: 1, // 22-04 (& Maartje) door Rick+Lars;
+            Sander: 2, // 22-04 (& Maartje) door Rick+Lars; // 24-04 (& Jasper) door Ricardo+Lars;
             Maartje: 1, // 22-04 (& Sander) door Rick+Lars;
         },
     },
