@@ -346,7 +346,8 @@ const data = {
         06: {
             Jelmer: 2, // 01-06 (& Mike) door Lars+Marijn; // 04-06 (& Stefan) door Jasper+Lars
             Mike: 1, // 01-06 (& Jelmer) door Lars+Marijn
-            Stefan: 1, // 04-06 (& Jelmer) door Jasper+Lars
+            Stefan: 2, // 04-06 (& Jelmer) door Jasper+Lars; // 08-06 (& An) door Beau+Marijn
+            An: 1, // 08-06 (& Stefan) door Beau+Marijn
         }
     },
 };
