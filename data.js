@@ -344,12 +344,14 @@ const data = {
             Sander: 1, // 20-05 (& Jasper) door Lars+Marijn
         },
         06: {
-            Jelmer: 2, // 01-06 (& Mike) door Lars+Marijn; // 04-06 (& Stefan) door Jasper+Lars
+            Jelmer: 3, // 01-06 (& Mike) door Lars+Marijn; // 04-06 (& Stefan) door Jasper+Lars; // 25-06 (& Stefan) door Beau+Michel
             Mike: 1, // 01-06 (& Jelmer) door Lars+Marijn
-            Stefan: 2, // 04-06 (& Jelmer) door Jasper+Lars; // 08-06 (& An) door Beau+Marijn
+            Stefan: 3, // 04-06 (& Jelmer) door Jasper+Lars; // 08-06 (& An) door Beau+Marijn; // 25-06 (& Jelmer) door Beau+Michel
             An: 1, // 08-06 (& Stefan) door Beau+Marijn,
             Beau: 1, // 11-06 (& Igor) door Ricardo+Michel
             Igor: 1, // 11-06 (& Beau) door Ricardo+Michel
+            Jasper: 1, // 25-06 (& Reno) door Beau+An
+            Reno: 1, // 25-06 (& Jasper) door Beau+An
         }
     },
 };
