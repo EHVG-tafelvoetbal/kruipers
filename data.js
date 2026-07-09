@@ -352,6 +352,10 @@ const data = {
             Igor: 1, // 11-06 (& Beau) door Ricardo+Michel
             Jasper: 1, // 25-06 (& Reno) door Beau+An
             Reno: 1, // 25-06 (& Jasper) door Beau+An
+        },
+        07: {
+            Mike: 1, // 09-07 ($ Stefan) door Beau+Marijn
+            Stefan: 1, // 09-07 ($ Mike) door Beau+Marijn
         }
     },
 };
