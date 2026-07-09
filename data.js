@@ -354,8 +354,9 @@ const data = {
             Reno: 1, // 25-06 (& Jasper) door Beau+An
         },
         07: {
-            Mike: 1, // 09-07 ($ Stefan) door Beau+Marijn
-            Stefan: 1, // 09-07 ($ Mike) door Beau+Marijn
+            Mike: 1, // 09-07 (& Stefan) door Beau+Marijn
+            Stefan: 2, // 09-07 (& Mike) door Beau+Marijn; // 09-07 (& An) door Beau+Mike
+            An: 1, // 09-07 (& Stefan) door Beau+Mike
         }
     },
 };
