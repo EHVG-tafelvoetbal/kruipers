@@ -354,8 +354,8 @@ const data = {
             Reno: 1, // 25-06 (& Jasper) door Beau+An
         },
         07: {
-            Mike: 4, // 09-07 (& Stefan) door Beau+Marijn; // 13-07 (& Stefan) door Beau+Jorik; // 13-07 (& Stefan) door Marijn+Jorik; // 14-07 (& Stefan) door Marijn+Beau
-            Stefan: 5, // 09-07 (& Mike) door Beau+Marijn; // 09-07 (& An) door Beau+Mike; // 13-07 (& Mike) door Beau+Jorik; // 13-07 (& Mike) door Marijn+Jorik; // 14-07 (& Mike) door Marijn+Beau
+            Mike: 5, // 09-07 (& Stefan) door Beau+Marijn; // 13-07 (& Stefan) door Beau+Jorik; // 13-07 (& Stefan) door Marijn+Jorik; // 14-07 (& Stefan) door Marijn+Beau; // 16-07 (& Stefan) door Ricardo+Jorik
+            Stefan: 6, // 09-07 (& Mike) door Beau+Marijn; // 09-07 (& An) door Beau+Mike; // 13-07 (& Mike) door Beau+Jorik; // 13-07 (& Mike) door Marijn+Jorik; // 14-07 (& Mike) door Marijn+Beau; // 16-07 (& Mike) door Ricardo+Jorik
             An: 1, // 09-07 (& Stefan) door Beau+Mike
         }
     },
