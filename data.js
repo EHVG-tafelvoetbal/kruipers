@@ -357,7 +357,8 @@ const data = {
             Mike: 6, // 09-07 (& Stefan) door Beau+Marijn; // 13-07 (& Stefan) door Beau+Jorik; // 13-07 (& Stefan) door Marijn+Jorik; // 14-07 (& Stefan) door Marijn+Beau; // 16-07 (& Stefan) door Ricardo+Jorik, // 20-07 (& Jelmer) door Beau+Boyd
             Stefan: 6, // 09-07 (& Mike) door Beau+Marijn; // 09-07 (& An) door Beau+Mike; // 13-07 (& Mike) door Beau+Jorik; // 13-07 (& Mike) door Marijn+Jorik; // 14-07 (& Mike) door Marijn+Beau; // 16-07 (& Mike) door Ricardo+Jorik
             An: 1, // 09-07 (& Stefan) door Beau+Mike
-            Jelmer: 1, // 20-07 (& Mike) door Beau+Boyd
+            Jelmer: 2, // 20-07 (& Mike) door Beau+Boyd; // 20-07 (& Boyd) door Beau+An
+            Boyd: 1,  // 20-07 (& Jelmer) door Beau+An
         }
     },
 };
