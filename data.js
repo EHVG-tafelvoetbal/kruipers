@@ -354,11 +354,14 @@ const data = {
             Reno: 1, // 25-06 (& Jasper) door Beau+An
         },
         07: {
-            Mike: 6, // 09-07 (& Stefan) door Beau+Marijn; // 13-07 (& Stefan) door Beau+Jorik; // 13-07 (& Stefan) door Marijn+Jorik; // 14-07 (& Stefan) door Marijn+Beau; // 16-07 (& Stefan) door Ricardo+Jorik, // 20-07 (& Jelmer) door Beau+Boyd
-            Stefan: 6, // 09-07 (& Mike) door Beau+Marijn; // 09-07 (& An) door Beau+Mike; // 13-07 (& Mike) door Beau+Jorik; // 13-07 (& Mike) door Marijn+Jorik; // 14-07 (& Mike) door Marijn+Beau; // 16-07 (& Mike) door Ricardo+Jorik
+            Mike: 7, // 09-07 (& Stefan) door Beau+Marijn; // 13-07 (& Stefan) door Beau+Jorik; // 13-07 (& Stefan) door Marijn+Jorik; // 14-07 (& Stefan) door Marijn+Beau; // 16-07 (& Stefan) door Ricardo+Jorik, // 20-07 (& Jelmer) door Beau+Boyd; // 21-07 (& Stefan) door Beau+An;
+            Stefan: 7, // 09-07 (& Mike) door Beau+Marijn; // 09-07 (& An) door Beau+Mike; // 13-07 (& Mike) door Beau+Jorik; // 13-07 (& Mike) door Marijn+Jorik; // 14-07 (& Mike) door Marijn+Beau; // 16-07 (& Mike) door Ricardo+Jorik; // 21-07 (& Mike) door Beau+An;
             An: 1, // 09-07 (& Stefan) door Beau+Mike
             Jelmer: 2, // 20-07 (& Mike) door Beau+Boyd; // 20-07 (& Boyd) door Beau+An
             Boyd: 1,  // 20-07 (& Jelmer) door Beau+An
+        },
+        weigeraars: {
+            Stefan: 1, // 21-07 (geweigerd kruipen tegen An+Beau)
         }
     },
 };
